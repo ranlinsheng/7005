@@ -1,3 +1,3 @@
-#7005_Midterm test data set/
+#7005 data set/
 /S2037062
 Linsheng Ran
